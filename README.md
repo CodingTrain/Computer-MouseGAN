@@ -4,6 +4,8 @@ Processing and node.js project for rendering MouseGAN images from RunwayML.
 
 ![An image of generated output from a computer mouse GAN. Shows a number of blobs that vaguely resemble computer mice.](/assets/example-image.png)
 
+![A screen capture showing the project running. A node server is started and then a processing sketch show generated images.](/assets/example.gif)
+
 ## Usage
 
 Clone or download this repository.
